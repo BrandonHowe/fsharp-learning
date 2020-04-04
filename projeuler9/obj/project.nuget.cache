@@ -1,0 +1,10 @@
+﻿{
+  "version": 2,
+  "dgSpecHash": "eiYnU5xCqT7pvCDGHmHy2i86rWBm+T6ScSgqhUMzktJqiQqDCb87MkWPQz4HiGVbWWjDB4kRN72akBq5mmswhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Projects\\fsharplearning\\fsharplearning.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

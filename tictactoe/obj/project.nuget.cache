@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxNv/JXbW+KFPKQKfUBedZBgL/iCf/1qQmeZbt1nSumiSDL4ESfzNvNc5rRybaAciddRrrJfv9OwEEntIAOrAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Projects\\fsharplearning\\tictactoe\\tictactoe.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
