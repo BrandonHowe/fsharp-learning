@@ -339,7 +339,7 @@ module ConsoleUI =
                 printfn ""
                 let nextUserAction = askToPlayAgain api
                 gameLoop api nextUserAction
-            | GameWon player -> 
+            | GameWon player ->
                 printfn "Game won by %A" player
                 printfn ""
                 let nextUserAction = askToPlayAgain api
