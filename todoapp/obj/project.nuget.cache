@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pch7NelNgxxR3rAJzj1ywzQqSOe7UyooFjHQwmEXJ9BA6AVJYH9VPvI0JzRxpDY37vynGorMWO/2VZ7UVm9uqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Projects\\fsharplearning\\todoapp\\todoapp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
